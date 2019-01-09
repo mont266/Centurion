@@ -1,4 +1,4 @@
 /// Variable Init
 randomize();
-global.centurioncount = 0;
-global.timer = 60;
+global.centurioncount = 95;
+global.timer = 10;
