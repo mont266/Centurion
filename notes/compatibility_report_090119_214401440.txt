@@ -1,0 +1,8 @@
+Converting GML script: ${project_dir}\scripts\timer_object_init\timer_object_init.gml
+Converted description /// @description timer_object_init()
+
+Converting GML script: ${project_dir}\scripts\timer_start\timer_start.gml
+Converted description /// @description timer_start()
+
+Converting GML script: ${project_dir}\scripts\timer_stop\timer_stop.gml
+Converted description /// @description timer_stop()

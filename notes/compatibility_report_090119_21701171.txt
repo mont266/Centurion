@@ -1,0 +1,133 @@
+Converting GML script: ${project_dir}\scripts\timer_createTimer\timer_createTimer.gml
+Converted description /// @description  timer_createTimer()
+
+Converting GML script: ${project_dir}\scripts\timer_destroyTimer\timer_destroyTimer.gml
+Converted description /// @description  timer_destroyTimer(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_setPaused\timer_setPaused.gml
+Converted description /// @description timer_setPaused(bool, timer)/// @param bool
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_getPaused\timer_getPaused.gml
+Converted description /// @description timer_getPaused(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_setSpeed\timer_setSpeed.gml
+Converted description /// @description timer_setSpeed(speed, timer)/// @param speed
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_runForward\timer_runForward.gml
+Converted description /// @description timer_runForward(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_runBackward\timer_runBackward.gml
+Converted description /// @description timer_runBackward(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_noTime\timer_noTime.gml
+Converted description /// @description timer_noTime(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_addMillis\timer_addMillis.gml
+Converted description /// @description timer_addMillis(millis, timer)/// @param millis
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_addSeconds\timer_addSeconds.gml
+Converted description /// @description timer_addSeconds(seconds, timer)/// @param seconds
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_addMinutes\timer_addMinutes.gml
+Converted description /// @description timer_addMinutes(minutes, timer)/// @param minutes
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_addHours\timer_addHours.gml
+Converted description /// @description timer_addHours(hours, timer)/// @param hours
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_subMillis\timer_subMillis.gml
+Converted description /// @description timer_subMillis(millis, timer)/// @param millis
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_subSeconds\timer_subSeconds.gml
+Converted description /// @description timer_subSeconds(seconds, timer)/// @param seconds
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_subMinutes\timer_subMinutes.gml
+Converted description /// @description timer_subMinutes(minutes, timer)/// @param minutes
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_subHours\timer_subHours.gml
+Converted description /// @description timer_subHours(hours, timer)/// @param hours
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_multiply\timer_multiply.gml
+Converted description /// @description timer_multiply(x, timer)/// @param x
+/// @param  timer
+
+Converting GML script: ${project_dir}\scripts\timer_reset\timer_reset.gml
+Converted description /// @description timer_reset(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getHours\timer_getHours.gml
+Converted description /// @description timer_getMinutes(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getMinutes\timer_getMinutes.gml
+Converted description /// @description timer_getMinutes(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getSeconds\timer_getSeconds.gml
+Converted description /// @description timer_getSeconds(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getMillis\timer_getMillis.gml
+Converted description /// @description timer_getMillis(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getFHours\timer_getFHours.gml
+Converted description /// @description timer_getFHours(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getFMinutes\timer_getFMinutes.gml
+Converted description /// @description timer_getFMinutes(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getFSeconds\timer_getFSeconds.gml
+Converted description /// @description timer_getFSeconds(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getFMillis\timer_getFMillis.gml
+Converted description /// @description timer_getFMillis(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getTimerLong\timer_getTimerLong.gml
+Converted description /// @description timer_getTimerLong(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getTimer\timer_getTimer.gml
+Converted description /// @description timer_getTimer(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_getTimerShort\timer_getTimerShort.gml
+Converted description /// @description timer_getTimerShort(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_inHours\timer_inHours.gml
+Converted description /// @description timer_inMinutes(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_inMinutes\timer_inMinutes.gml
+Converted description /// @description timer_inMinutes(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_inSeconds\timer_inSeconds.gml
+Converted description /// @description timer_inSeconds(timer)/// @param timer
+
+Converting GML script: ${project_dir}\scripts\timer_inMillis\timer_inMillis.gml
+Converted description /// @description timer_inMillis(timer)/// @param timer
+
+Font fontA has been converted to font family Berlin Sans FB (Regular) - Font has been regenerated, small inconsistencies may occur
+Font fontB has been converted to font family MS Gothic (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\ob_timer\Create_0.gml
+Converted description /// @description Start variables
+
+Converting GML script: ${project_dir}\objects\ob_timer\Step_1.gml
+Converted description /// @description  Count time
+
+Converting GML script: ${project_dir}\objects\ob_demo\Create_0.gml
+Converted description /// @description   Welcome to Timer Functions!
+
+Converting GML script: ${project_dir}\objects\ob_demo\Mouse_54.gml
+Converted description /// @description  Add 10 seconds to myTimer.
+
+Converting GML script: ${project_dir}\objects\ob_demo\Mouse_53.gml
+Converted description /// @description  Pause/Unpause myTimer
+
+Converting GML script: ${project_dir}\objects\ob_demo\Draw_0.gml
+Converted description /// @description  Draw demonstration
+
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
