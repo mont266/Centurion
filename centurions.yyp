@@ -903,6 +903,14 @@
             }
         },
         {
+            "Key": "b2aea7be-4618-4a38-883a-6d9b793fffc9",
+            "Value": {
+                "id": "c2367a84-b88c-40f5-8ab2-c73801ac2b54",
+                "resourcePath": "sounds\\snd_dongbell\\snd_dongbell.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b6933a51-f0d0-4038-a25d-ffb70a68ad6a",
             "Value": {
                 "id": "b5dc08c8-43db-4cb3-8f69-776b7b307feb",
@@ -1372,6 +1380,14 @@
                 "id": "6ee9d6ea-995a-484e-bcb6-4d634ab911ed",
                 "resourcePath": "sprites\\spr_like_green\\spr_like_green.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd915057-2e58-42e7-a5e5-8113de89d195",
+            "Value": {
+                "id": "6764f59b-a68e-4ca3-addf-8e1024a9f162",
+                "resourcePath": "sounds\\snd_bell\\snd_bell.yy",
+                "resourceType": "GMSound"
             }
         },
         {
